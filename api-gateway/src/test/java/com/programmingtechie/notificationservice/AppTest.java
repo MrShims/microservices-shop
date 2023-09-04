@@ -1,4 +1,4 @@
-package org.hludov;
+package com.programmingtechie.notificationservice;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
